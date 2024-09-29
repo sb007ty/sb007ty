@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Spandan
-- 👀 I’m interested in MERN Stack
+- 👀 I’m interested in FrontEnd Development
 - 🌱 I’m currently learning React 
 - 📫 How to reach me https://www.linkedin.com/in/spandan-banerjee-1119b5172/
 
