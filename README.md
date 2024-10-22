@@ -2,6 +2,8 @@
 - 👀 I’m interested in FrontEnd Development
 - 🌱 I’m currently learning React 
 - 📫 How to reach me https://www.linkedin.com/in/spandan-banerjee-1119b5172/
+- https://github-readme-stats.vercel.app/api?username=sb007ty&show_icons=true&theme=radical
+- https://github-readme-stats.vercel.app/api/top-langs/?username=sb007ty
 
 <!---
 - 💞️ I’m looking to collaborate on ...
