@@ -5,10 +5,10 @@
 - https://github-readme-stats.vercel.app/api?username=sb007ty&show_icons=true&theme=radical
 - https://github-readme-stats.vercel.app/api/top-langs/?username=sb007ty
   <a href="https://github.com/sb007ty/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sb007ty&repo=github-readme-stats" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=sb007ty" />
 </a>
 <a href="https://github.com/sb007ty/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sb007ty&repo=convoychat" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sb007ty&layout=compact&langs_count=8&card_width=320" />
 </a>
 
 <!---
